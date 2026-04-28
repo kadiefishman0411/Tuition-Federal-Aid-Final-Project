@@ -1,2 +1,10 @@
 # Tuition-Federal-Aid-Final-Project
 Dataset and methodology for final project assignment in my Quantitative Methods to Journalism (Comm-260) at American University
+# Overview
+My project tracked the patterns of American University's tuition price from 2013 to present. It also looks at private universities as a whole and how they have also increased rapidly. I also look at the correlation between AU and private universities correlation with federal student loans. The newsworthy angle for this story was discovered when AU recently announced they are increasing their tuition by 4% for the 2026-2027 academic year. AU is not alone with making this increase, as many other universities have done the same.
+# Data Sources
+I have three datasets that correspond to the different angles of my project. The data on private university tuition and percentage of students receiving federal loans come from Integrated Postsecondary Education Data System. American University's tuition track comes from Data USA as well as implementing the more recent tuition prices manually based on their website's information.
+# Methodology
+I imported each file into its own tab on Google Sheets. From there, I cleaned each up by standardizing, organizing information and cutting unnecessary data. I also calculated the average increases annual and from 2013-present on AU's tuition. When all the data was cleaned up, I created multiple different line graphs about each piece of information to show the changes over time as well as a scatterplot to represent the correlation.
+# Limitations
+The information focuses on correlation, not causation. Tuition does not cause a low federal student aid or vice versa. The dataset for the percentage of students receiving federal student aid also only goes up to 2023, so the past few years of information are missing. Thus, we cannot assume there is a correlation between tuition and federal aid from 2024-now, but that the pattern has been existing for at least 10 years. We also cannot make assumptions for the why this is happening and must go to experts to answer this question.
